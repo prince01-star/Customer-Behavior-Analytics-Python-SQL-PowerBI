@@ -4,6 +4,7 @@
 This project is a **end-to-end data analytics and business intelligence solution** designed to analyze customer shopping behavior and deliver actionable insights for business stakeholders.
 
 The project demonstrates a real-world analytics pipeline where **Python is used for data cleaning and feature engineering**, **SQL is used for answering business questions**, and **Power BI is used to create interactive dashboards**.
+<img width="1836" height="1001" alt="Screenshot 2026-02-12 204755" src="https://github.com/user-attachments/assets/5edc9f66-5d46-4e6f-a39d-7fd12d0d6f6c" />
 
 ---
 
